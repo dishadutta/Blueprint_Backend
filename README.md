@@ -1,3 +1,3 @@
 # Blueprint
 
-Backend of the Blueprint project
+Backend of the Blueprint project.
